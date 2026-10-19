@@ -1,0 +1,10 @@
+*.STL binary
+*.stl binary
+*.SLDPRT binary
+*.sldprt binary
+*.SLDASM binary
+*.sldasm binary
+*.STEP binary
+*.JPG binary
+*.jpg binary
+*.png binary
