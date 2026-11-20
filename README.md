@@ -80,6 +80,10 @@ explicitly, and retune the PID gains, because the original gains were tuned with
 Use a balance charger, never leave a charging LiPo unattended, and store packs at storage voltage. Keep fingers
 and cables clear of the wheels when the motors are enabled.
 
+## Bill of Material
+
+[Bill of Material (PDF)](docs/SimpleFOC%20Balancing%20Robot%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
 ## Documentation download
 
 This repository is the documentation and source download for the build.
